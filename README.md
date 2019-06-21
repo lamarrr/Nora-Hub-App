@@ -1,11 +1,13 @@
 # Nora Hub App (Alpha)
 Mobile App to the Nora Ecosystem
 ![](static/home.png) 
+
 ** Home Page**
 
 ***
 
 ![](static/lights.png)
+
 **Lights Control Page**
 
 ***
