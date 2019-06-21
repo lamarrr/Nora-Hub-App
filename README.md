@@ -2,7 +2,7 @@
 Mobile App to the Nora Ecosystem
 ![](static/home.png) 
 
-** Home Page**
+**Home Page**
 
 ***
 
